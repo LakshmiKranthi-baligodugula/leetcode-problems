@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
@@ -21,6 +22,7 @@
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
@@ -30,4 +32,12 @@
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3174-clear-digits) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
