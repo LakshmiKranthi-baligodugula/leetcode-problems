@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -23,6 +25,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
@@ -40,4 +43,8 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
