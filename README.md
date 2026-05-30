@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
@@ -26,6 +27,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -52,10 +54,19 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
