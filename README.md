@@ -9,6 +9,7 @@
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
+| [2073-time-needed-to-buy-tickets](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [3161-block-placement-queries](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -43,6 +44,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [3174-clear-digits](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3174-clear-digits) |
 ## Math
 |  |
@@ -103,4 +105,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
