@@ -32,6 +32,7 @@
 | [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -96,8 +97,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
