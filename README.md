@@ -11,6 +11,7 @@
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -91,10 +92,12 @@
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Design
 |  |
 | ------- |
