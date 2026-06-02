@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,10 +105,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
