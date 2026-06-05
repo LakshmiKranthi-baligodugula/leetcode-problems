@@ -9,6 +9,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
