@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [3161-block-placement-queries](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3161-block-placement-queries) |
 ## Binary Indexed Tree
 |  |
@@ -146,6 +148,11 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
