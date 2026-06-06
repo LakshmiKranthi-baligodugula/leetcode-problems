@@ -12,6 +12,7 @@
 | [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
