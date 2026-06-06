@@ -36,6 +36,7 @@
 | [1544-make-the-string-great](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3174-clear-digits](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -153,6 +154,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1652-defuse-the-bomb) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
