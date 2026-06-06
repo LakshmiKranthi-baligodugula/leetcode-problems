@@ -25,12 +25,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0424-longest-repeating-character-replacement](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1544-make-the-string-great) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1652-defuse-the-bomb) |
