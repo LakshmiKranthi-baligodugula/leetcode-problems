@@ -9,6 +9,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -29,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
@@ -116,12 +118,14 @@
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
 | [2126-destroying-asteroids](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
 | [2126-destroying-asteroids](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Design
@@ -154,6 +158,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
@@ -188,4 +193,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
