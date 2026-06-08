@@ -197,4 +197,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
