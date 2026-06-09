@@ -52,6 +52,7 @@
 | [0032-longest-valid-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
@@ -208,4 +211,5 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
