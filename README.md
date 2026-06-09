@@ -23,6 +23,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
 | [2126-destroying-asteroids](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
