@@ -51,6 +51,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -184,6 +185,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -192,6 +194,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0175-combine-two-tables) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
