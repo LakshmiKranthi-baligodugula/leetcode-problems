@@ -196,6 +196,7 @@
 | [0101-symmetric-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -211,6 +212,7 @@
 | [0101-symmetric-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
@@ -228,6 +230,7 @@
 | [0101-symmetric-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,4 +240,5 @@
 | ------- |
 | [0100-same-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
