@@ -200,6 +200,7 @@
 | [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -219,6 +220,7 @@
 | [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
@@ -240,6 +242,7 @@
 | [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -252,4 +255,5 @@
 | [0112-path-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
