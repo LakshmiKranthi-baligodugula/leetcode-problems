@@ -200,6 +200,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -228,6 +230,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -254,6 +257,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
