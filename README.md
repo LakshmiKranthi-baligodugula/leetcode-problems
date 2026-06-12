@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -159,6 +160,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -197,6 +199,7 @@
 | [0101-symmetric-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -214,6 +217,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -229,6 +233,7 @@
 | [0101-symmetric-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
