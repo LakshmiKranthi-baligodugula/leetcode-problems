@@ -15,6 +15,7 @@
 | [0621-task-scheduler](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0994-rotting-oranges) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -286,6 +287,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -308,6 +310,7 @@
 | [0463-island-perimeter](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0994-rotting-oranges) |
@@ -316,12 +319,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0994-rotting-oranges) |
 ## Graph Theory
