@@ -85,6 +85,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
@@ -92,6 +93,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
@@ -349,4 +351,5 @@
 | ------- |
 | [0136-single-number](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
