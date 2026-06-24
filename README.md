@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -347,4 +348,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
