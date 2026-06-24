@@ -9,6 +9,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -342,4 +343,8 @@
 | [0841-keys-and-rooms](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/LakshmiKranthi-baligodugula/leetcode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
